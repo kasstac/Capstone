@@ -1,14 +1,14 @@
 # SimpliLearn MEAN Stack Developer Bootcamp (Capstone Project) - Fashionista Application
 Create a website that deal with online shopping for fashion goods and accessories.  
 
-# Implementation requirements:
-* Create a rich frontend.
-* Create admin and user portals.
-* Create functionalities for admin portal such as adding, updating, and deleting an item and user.
-* Create functionalities for user portal such as, registration, sign in, purchasing item, adding to the cart, and wish listing items.
-* Create database for storing all application related information.
+# Following has been Implemented:
+* Created a rich frontend.
+* Created admin and user portals.
+* Created functionalities for admin portal such as adding, updating, and deleting an item and user.
+* Created functionalities for user portal such as, registration, sign in, purchasing item, adding to the cart, and wish listing items.
+* Created database for storing all application related information.
  
-# The following tools must be used:
+# The following tools has been used:
 VS Code, Angular, NodeJS, MongoDB, AWS cloud services for deploying the application.
 
 # Screenshots 
